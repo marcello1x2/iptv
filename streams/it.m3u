@@ -726,3 +726,5 @@ https://cachehsi1a.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="7STORIA.it",7 STORIA (720p)
 https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="radiobrianza.it" tvg-name="Radio Brianza TV" tvg-language="Italian" tvg-country="IT" group-title="General", Brianza Radio TV
+https://57068da1deb21.streamlock.net/radiorbs/radiorbs/playlist.m3u8
